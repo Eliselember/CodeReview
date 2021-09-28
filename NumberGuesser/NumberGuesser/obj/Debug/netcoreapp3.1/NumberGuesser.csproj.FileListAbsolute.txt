@@ -1,0 +1,4 @@
+C:\Users\opilane\source\repos\logitpe21\NumberGuesser\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\logitpe21\NumberGuesser\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\logitpe21\NumberGuesser\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.AssemblyInfo.cs
+C:\Users\opilane\source\repos\logitpe21\NumberGuesser\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.csproj.CoreCompileInputs.cache
